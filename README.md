@@ -1,6 +1,6 @@
 # Hi, I'm João 
 
-I'm a **17-year-old developer based in Portugal **.
+I'm a 17-year-old developer based in Portugal.
 
 I'm interested in **low-level programming, systems development, and financial technology**.
 
