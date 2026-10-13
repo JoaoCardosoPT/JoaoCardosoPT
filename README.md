@@ -1,12 +1,10 @@
 # João 
 
-17-year-old developer based in Portugal.
+18-year-old developer based in Portugal.
 Interested in low-level programming and systems development
-
 
 ## Technologies 
 C — systems programming, memory management, networking 
+Python — backend development, scripting, and automation
 
-## Currently Learning
-C ( Focused In OS Dev )
 
