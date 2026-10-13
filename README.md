@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm João 👋</h1>
 
 <p align="center">
-  17-year-old developer based in Portugal.<br>
+  18-year-old developer based in Portugal.<br>
   Interested in low-level programming, systems development, and Python for backend development, scripting, and automation.
 </p>
 
