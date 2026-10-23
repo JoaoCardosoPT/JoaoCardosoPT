@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
-<h3 align="center">Basic Knowledge</h3>
+<h3 align="center">Other Technologies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
