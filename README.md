@@ -2,7 +2,7 @@
 
 <p align="center">
   18-year-old developer based in Portugal.<br>
-  Focused on backend development, API design, and building scalable web and enterprise applications, with a strong interest in low-level programming, systems development, and software architecture.</p>
+  Focused on backend development, API design and with a strong interest in low-level programming, systems development, and software architecture.</p>
 
 <h3 align="center">Main Languages</h3>
 
@@ -22,8 +22,3 @@
 </p>
 
 <hr>
-
-<p>
-  Currently deepening my knowledge of C with a focus on operating
-  system development, while also working with Python.
-</p>
