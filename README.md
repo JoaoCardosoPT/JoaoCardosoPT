@@ -2,7 +2,7 @@
 
 <p align="center">
   18-year-old developer based in Portugal.<br>
-  Focused on backend development, API design and with a strong interest in low-level programming, systems development, and software architecture.</p>
+  Full Stack Developer</p>
 
 <h3 align="center">Main Languages</h3>
 
